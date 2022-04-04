@@ -7,5 +7,4 @@ print(c)
 
 d = b - a
 
-print("Substraction:" , d)
-
+print(d)
